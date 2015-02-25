@@ -34,8 +34,7 @@
 	text-align: center;
 	vertical-align: middle;
 	font-size: 24px;
-	background-color: #00F;
-	border: medium none #FFF;
+	background-color: #FF9;
 }
 #apDiv2 {
 	position:absolute;
@@ -46,7 +45,7 @@
 	z-index:3;
 	text-align: center;
 	font-size: 24px;
-	background-color: #00F;
+	background-color: #FF9;
 }
 #apDiv3 {
 	position:absolute;
@@ -57,7 +56,7 @@
 	z-index:3;
 	text-align: center;
 	font-size: 24px;
-	background-color: #00F;
+	background-color: #FF9;
 }
 #content {
 	position:absolute;
@@ -88,7 +87,7 @@
 }
 #Contact-Us {
 	position:absolute;
-	left:430px;
+	left:145px;
 	top:1064px;
 	width:140px;
 	height:52px;
@@ -110,7 +109,7 @@ body,td,th {
 	font-family: "Comic Sans MS", cursive;
 }
 body {
-	background-image: url(BACKGROUNDPHYSICS.png);
+	background-image: url(../BACKGROUNDPHYSICS.png);
 }
 #title {
 	font-size: 36px;
@@ -123,18 +122,23 @@ body {
 </head>
 
 <body>
-<div id="icon"></div>
-<div id="title">AP Physics Mid-Term Survival Guide</div>
+<div id="icon"><a href= "finalpages/index-DW.html"><img src="../website logo.png" width="144" height="108" alt="logo" /></a></div>
+<div id="title">
+  <p>AP Physics Kinamatics Survival Guide</p>
+</div>
+<!-- TemplateBeginEditable name="application-edit" -->
 <div id="apDiv1">Application</div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="concept-edit" -->
 <div id="apDiv2">Concepts</div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="conclusion-edit" -->
 <div id="apDiv3">Conclusion</div>
-<div id="FAQ">FAQs</div>
+<!-- TemplateEndEditable -->
 <div id="Contact-Us">Contact Us</div>
 <div id="Contact-Mr-Lo">Contact Mr. Lo</div>
 <div id="FAQs"></div>
 <!-- TemplateBeginEditable name="content" -->
 <div id="content"></div>
 <!-- TemplateEndEditable -->
-<div id="homepage-botton"><a href= "finalpages/index-DW.html"><img src="home.png" width="109" height="73" alt="home botton" /></a></div>
+<div id="homepage-botton"><a href= "finalpages/index-DW.html"><img src="../home.png" width="109" height="73" alt="home botton" /></a></div>
 </body>
 </html>
