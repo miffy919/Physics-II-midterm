@@ -122,9 +122,9 @@ body {
 </head>
 
 <body>
-<div id="icon"><a href="../finalpages/index-DW.html"> <img src="../website logo.png" width="144" height="108" alt="logo" /> </a> </div>
+<div id="icon"> <a href="index-DW.html"> <img src="../website logo copy.png" width="144" height="108" alt="logo" /> </a> </div>
 <div id="title">
-  <p>AP Physics Kinamatics Survival Guide</p>
+  <p> AP Physics Kinematics Survival Guide</p>
 </div>
 <!-- TemplateBeginEditable name="application-edit" -->
 <div id="apDiv1">Application</div>
@@ -139,6 +139,7 @@ body {
 <!-- TemplateBeginEditable name="content" -->
 <div id="content"></div>
 <!-- TemplateEndEditable -->
-<div id="homepage-botton"><img src="../home.png" width="109" height="73" alt="home" /></div>
+<div id="homepage-botton"><img src="home.png" width="109" height="73" alt="home" /></div>
+<div id="homepage-botton"><a href= "finalpages/index-DW.html"><img src="../home.png" width="109" height="73" alt="home botton" /></a></div>
 </body>
 </html>
