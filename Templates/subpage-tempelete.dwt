@@ -139,7 +139,6 @@ body {
 <!-- TemplateBeginEditable name="content" -->
 <div id="content"></div>
 <!-- TemplateEndEditable -->
-<div id="homepage-botton"><img src="home.png" width="109" height="73" alt="home" /></div>
-<div id="homepage-botton"><a href= "finalpages/index-DW.html"><img src="../home.png" width="109" height="73" alt="home botton" /></a></div>
+<div id="homepage-botton"> <a href="index-DW.html"> <img src="../home.png" width="109" height="73" alt="home botton" /> </a> </div>
 </body>
 </html>
