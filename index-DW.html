@@ -1,6 +1,28 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+
+<SCRIPT TYPE="text/javascript">
+<!--
+function popup(mylink, windowname)
+{
+if (! window.focus)return true;
+var href;
+if (typeof(mylink) == 'string')
+   href=mylink;
+else
+   href=mylink.href;
+window.open(href, windowname, 'width=400,height=200,scrollbars=yes');
+return false;
+}
+//-->
+</SCRIPT>
+
+
+
+
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Untitled Document</title>
 <style type="text/css">
@@ -271,7 +293,7 @@ html {
 <div id="apDiv9"><a href="Conclusion.html">
 <img src="conclusion.png" width="198" height="193" alt="conclusion" /></a>
 </div>
-<div id="apDiv11">Contact Us</div>
+<div id="apDiv11"><A HREF="index.html" onClick="return popup(this, 'notes')">Contact Us</A></div>
 <div id="apDiv12">Contact Mr.Lo</div>
 <div id="apDiv14"><a href="Concept.html">Concept</a></div>
 <div id="apDiv15"><a href="Application.html">Application</a></div>
