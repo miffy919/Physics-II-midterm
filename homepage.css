@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+
+#apDiv2 h1 {
+	font-size: 40px
+}
+#apDiv5 h3 {
+	font-size: 24px;
+	font-style: normal;
+}
+#apDiv7 div p {
+	overflow: visible;
+}
+
+#apDiv13 {
+	font-size: 24px;
+	
+}
+#apDiv13 {
+	font-size: 36px;
+	
+}
+
+
+
+#apDiv14 {
+	font-size: 48px;
+}
+
+#apDiv15 {
+	font-size: 48px;
+}
+
+#apDiv16 {
+	font-size: 48px;
+}
+#apDiv10 {
+	font-size: 24px;
+}
+#apDiv10 {
+	text-align: center;
+	vertical-align: bottom;
+	float: none;
+}
+#apDiv11 {
+	text-align: center;
+	vertical-align: bottom;
+	white-space: normal;
+}
+#apDiv11 {
+	font-size: 24px;
+}
+#apDiv12 {
+	font-size: 24px;
+	text-align: center;
+	vertical-align: bottom;
+}
+#apDiv3 {
+	background-image: url(title%20background.png);
+}
+#apDiv3 {
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#apDiv2 h1 {
+	color: #0F0;
+	text-align: center;
+	vertical-align: middle;
+}
+body {
+	background-color: #FFF;
+	background-image: url(Images/BACKGROUNDPHYSICS.png);
+	background-repeat: repeat;
+}
+body,td,th {
+	font-family: "Comic Sans MS", cursive;
+}
+#apDiv15 {
+	font-size: 46px;
+}
+#apDiv5 h3 {
+	background-color: #000;
+}
+#apDiv5 h3 {
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFF;
+}
+
+#apDiv5 {
+	background-color: #000;
+}
+#apDiv10 {
+	background-color: #FFF;
+}
+#apDiv10 {
+	background-color: #09C;
+}
+#apDiv11 {
+	background-color: #09C;
+}
+#apDiv12 {
+	background-color: #09C;
+}
